@@ -1,62 +1,94 @@
-# Hi, I'm Sri Vibishika 
-### Final Year BME Student | AI & Embedded Systems | Mobile & Web Developer  
+# Hi, I'm Sri Vibishika 👋
 
-I love building meaningful health-tech solutions using **AI, sensors, mobile apps, and web technologies**.  
-I’ve worked on real-world projects such as mobile-based audio classification, wearable gait trackers, and full-stack task manager applications.
+### Data Analytics Fresher | Python | SQL | Excel | Power BI
 
----
+I’m a **Biomedical Engineering graduate transitioning into Data Analytics**, with a strong interest in transforming raw data into meaningful insights and actionable dashboards.
 
-##  About Me  
--  Final Year Biomedical Engineering Student  
--  AI & Embedded Systems Enthusiast  
--  Mobile & Web App Developer  
--  Building Health-Tech Projects  
--  Interested in IoT, AI, React, and Real-Time Systems  
+I enjoy working with **Python, SQL, Excel, and Power BI** for data cleaning, analysis, visualization, and reporting. I’m currently building practical projects to strengthen my analytical and problem-solving skills.
 
 ---
 
-##  Tech Skills  
-**Languages**  
-`C` `JavaScript` `Python`  
+## 👩‍💻 About Me
 
-**Frontend**  
-`HTML` `CSS` `React` `Vite`  
-
-**Backend**  
-`Node.js` `Express`  
-
-**AI & Embedded Systems**  
-`Arduino` `MPU6050` `Sensors` `Machine Learning Basics`  
-
-**Tools**  
-`Git` `GitHub` `MIT App Inventor` `3D Slicer` `SketchUp` `Meshmixer`  
+* 🎓 Biomedical Engineering Graduate — 2026
+* 📊 Aspiring **Data Analyst**
+* 🐍 Learning and practicing **Python for Data Analysis**
+* 🗄️ Working with **SQL** for data querying
+* 📈 Creating dashboards using **Power BI**
+* 📑 Using **Microsoft Excel** for data cleaning and analysis
+* 🔍 Interested in Data Visualization, Business Insights & Reporting
+* 🚀 Open to **Data Analyst / Junior Data Analyst / Data Analytics** opportunities
 
 ---
 
-##  Featured Projects  
+## 🛠️ Tech Skills
 
-###  **Lullabyte – AI-Based Infant Vocalization Classifier**  
-AI + Mobile + Dashboard system that records baby cries, classifies them using ML, and displays real-time predictions.
+**Programming & Data Analysis**
+`Python` 
 
-###  NeuroGait – AI Gait Feedback Wearable  
-A cost-effective wearable for gait analysis using MPU6050 + Nano + mobile app feedback.
+**Database**
+`SQL` `MySQL`
 
-###  MoodMate – Colorful Mental Wellness Web App  
-Mood journaling, emotional history, support wall, daily quotes, and animations.
+**Data Visualization**
+`Power BI`
 
-###  Todo Task Manager (Full Stack)  
-React + Node + MongoDB app with Google OAuth, real-time tasks, deadlines, and reminders.
-
----
-
-##  GitHub Stats  
-![Vibishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivibishika-vv&show_icons=true&theme=rose_pine)
+**Spreadsheet & Reporting**
+`Microsoft Excel`
 
 ---
 
-##  Connect With Me  
-📎 **LinkedIn:** https://www.linkedin.com/in/sri-vibishika-v-591512258/ 
-📧 **Email:** srivibishika22@gmail.com
+## 📊 Data Analytics Skills
 
-Thanks for visiting!   
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* SQL Queries
+* Data Interpretation
+* Statistical Analysis Basics
+* Excel Formulas & Data Analysis
+* Analytical Reporting
 
+---
+
+## 📌 Featured Projects
+
+### 📊 Sales Data Analysis
+
+Analyzed sales data using **Python** to identify sales trends, top-performing products, regional performance, and key business insights.
+
+### 📈 Power BI Sales Dashboard
+
+Created an interactive **Power BI dashboard** to visualize KPIs, sales performance, customer trends, and category-level insights.
+
+### 🗄️ SQL Data Analysis
+
+Used **SQL queries** to filter, aggregate, join, and analyze structured datasets to answer business-related questions.
+
+### 📑 Excel Data Analysis
+
+Performed data cleaning, analysis, and reporting using **Excel formulas, pivot tables, charts, and dashboards**.
+
+---
+
+## 📚 Currently Learning
+
+* SQL
+* Python for Data Analytics
+* Power BI & DAX
+* Data Visualization
+* Statistics for Data Analysis
+* Real-world Business Analytics
+
+---
+
+## 📊 GitHub Stats
+
+![Vibishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivibishika-vv\&show_icons=true\&theme=rose_pine)
+
+---
+
+## 🤝 Connect With Me
+
+📎 **LinkedIn:** https://www.linkedin.com/in/sri-vibishika-v-591512258/
+📧 **Email:** [srivibishika22@gmail.com](mailto:srivibishika22@gmail.com)
