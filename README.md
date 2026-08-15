@@ -84,7 +84,7 @@ Performed data cleaning, analysis, and reporting using **Excel formulas, pivot t
 
 ## 📊 GitHub Stats
 
-![Vibishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivibishika-vv\&show_icons=true\&theme=rose_pine)
+![Vibishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivibishika-vv&show_icons=true&theme=rose_pine)
 
 ---
 
